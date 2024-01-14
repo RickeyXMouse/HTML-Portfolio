@@ -1,0 +1,78 @@
+.text-center {
+  text-align: center;
+  color: orange;
+}
+body {
+  background-color: rgba(27, 27, 50, 0.8);
+  font-size: 1rem;
+  font-family: 'poppins', sans-serif;
+}
+.form {
+  width: 500px;
+  margin: auto;
+  padding-right: 100px;
+  color: orange;
+  background-color:  #1b1b32;
+  border-radius: 50px;
+  border: solid orange;
+}
+.basic-info {
+  text-align: center;
+  margin-right: 300px;
+  margin-top: 25px;
+}
+.label1 {
+  margin-left: 155px;
+}
+.label2 {
+  margin-left: 155px;
+}
+.label3 {
+  margin-left: 160px;
+}
+.input1 {
+  margin-left: 155px;
+  width: 108%
+}
+.input2 {
+margin-left: 155px;
+width: 108%;
+}
+.input3 {
+  margin-left: 158px;
+width: 112%;
+}
+.age {
+  padding-right: 10px;
+}
+.rank {
+  margin-left: 160px;
+}
+.gamemode {
+  margin-left: 160px;
+}
+.dropdown {
+  width: 177px;
+}
+.radio {
+ margin-left: 160px;
+}
+.text-area {
+  margin-left: 160px;
+}
+.input-textarea {
+  display: block;
+  width: 90%;
+  height: 100px;
+
+}
+.submit-button {
+  background-color: #37af65;
+  color: white;
+  margin-top: 20px;
+  margin-left: 160px;
+  margin-bottom: 25px;
+  width: 63%;
+  height: 50px;
+  border-radius: 50px;
+}
